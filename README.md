@@ -3,6 +3,7 @@
 * Developer: USDC Applications Engineering Team, ROHM Semiconductor
 * Date Started: January 2016
 * Related Projects: https://github.com/sk84life85/Rohm_Semiconductor_RGB_LED_EVK/
+* For inquiries regarding our LED products, please contact kmineshita@rohmsemiconductor.com
 
 ----
 ### Quick Start Guide
