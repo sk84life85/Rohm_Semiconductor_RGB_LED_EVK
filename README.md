@@ -5,6 +5,12 @@
 * Related Projects: https://github.com/sk84life85/Rohm_Semiconductor_RGB_LED_EVK/
 
 ----
+### Quick Start Guide
+* Plug-in the RGB EVK to a PC using a USB-B Micro connector.
+* Launch a Terminal program and set the baudrate too 9600.
+* Click "i" for information on command sets to control the Duty Cycle and Frequency of RGB output.
+
+----
 ### Repository Contents
 * Documentation Folder: Contains HW PDF files, User Guide, and datasheets of RGB LEDs.
 * HW Source Files: Contains the HW Source OrCad Schematic for this kit.
