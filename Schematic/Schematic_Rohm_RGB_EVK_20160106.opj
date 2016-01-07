@@ -1,0 +1,126 @@
+(ExpressProject "Schematic_Rohm_RGB_EVK_20160106"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File ".\library1.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\schematic_rohm_rgb_evk_20160106.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (RESISTOR
+      (FullPartName "RESISTOR.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (MSL0402RGB
+      (FullPartName "MSL0402RGB.Normal")
+      (LibraryName
+         "C:\USERS\FLEE\DESKTOP\APPLICATIONS DEVELOPMENT\WIP DEMOS\LED COLOR MIXING BOARD\SCHEMATIC\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (SMLVN6RGB
+      (FullPartName "SMLVN6RGB.Normal")
+      (LibraryName
+         "C:\USERS\FLEE\DESKTOP\APPLICATIONS DEVELOPMENT\WIP DEMOS\LED COLOR MIXING BOARD\SCHEMATIC\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (MSL0201RGB
+      (FullPartName "MSL0201RGB.Normal")
+      (LibraryName
+         "C:\USERS\FLEE\DESKTOP\APPLICATIONS DEVELOPMENT\WIP DEMOS\LED COLOR MIXING BOARD\SCHEMATIC\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (MSL0101RGB
+      (FullPartName "MSL0101RGB.Normal")
+      (LibraryName
+         "C:\USERS\FLEE\DESKTOP\APPLICATIONS DEVELOPMENT\WIP DEMOS\LED COLOR MIXING BOARD\SCHEMATIC\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (SMLP36RGB
+      (FullPartName "SMLP36RGB.Normal")
+      (LibraryName
+         "C:\USERS\FLEE\DESKTOP\APPLICATIONS DEVELOPMENT\WIP DEMOS\LED COLOR MIXING BOARD\SCHEMATIC\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (SMLP34RGB
+      (FullPartName "SMLP34RGB.Normal")
+      (LibraryName
+         "C:\USERS\FLEE\DESKTOP\APPLICATIONS DEVELOPMENT\WIP DEMOS\LED COLOR MIXING BOARD\SCHEMATIC\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (LED_Breakout
+      (FullPartName "LED_Breakout.Normal")
+      (LibraryName
+         "C:\USERS\FLEE\DESKTOP\APPLICATIONS DEVELOPMENT\WIP DEMOS\LED COLOR MIXING BOARD\SCHEMATIC\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (PORTLEFT-L
+      (LibraryName "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (0
+      (LibraryName "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    ("MOSFET N"
+      (FullPartName "MOSFET N.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (ML610Q111
+      (FullPartName "ML610Q111.Normal")
+      (LibraryName
+         "C:\USERS\FLEE\DESKTOP\APPLICATIONS DEVELOPMENT\WIP DEMOS\LED COLOR MIXING BOARD\SCHEMATIC\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    ("Programming Port"
+      (FullPartName "Programming Port.Normal")
+      (LibraryName
+         "C:\USERS\FLEE\DESKTOP\APPLICATIONS DEVELOPMENT\WIP DEMOS\LED COLOR MIXING BOARD\SCHEMATIC\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (FT230XS-R
+      (FullPartName "FT230XS-R.Normal")
+      (LibraryName
+         "C:\USERS\FLEE\DESKTOP\APPLICATIONS DEVELOPMENT\WIP DEMOS\LED COLOR MIXING BOARD\SCHEMATIC\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (VCC
+      (LibraryName "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (LED
+      (FullPartName "LED.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("CAPACITOR NON-POL"
+      (FullPartName "CAPACITOR NON-POL.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("INDUCTOR FERRITE"
+      (FullPartName "INDUCTOR FERRITE.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("MICRO B RECPT SMT"
+      (FullPartName "MICRO B RECPT SMT.Normal")
+      (LibraryName
+         "C:\USERS\FLEE\DESKTOP\APPLICATIONS DEVELOPMENT\WIP DEMOS\LED COLOR MIXING BOARD\SCHEMATIC\LIBRARY1.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\schematic_rohm_rgb_evk_20160106.dsn")
+      (Path "Design Resources" ".\schematic_rohm_rgb_evk_20160106.dsn"
+         "SCHEMATIC1")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library" ".\library1.olb")
+      (Select "Design Resources" ".\schematic_rohm_rgb_evk_20160106.dsn"
+         "SCHEMATIC1" "ROHM RGB EVK"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 0 200 0 481"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -30 50 1428 50 569")
+        (Scroll "-199 -7")
+        (Zoom "96")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\FLEE\DESKTOP\APPLICATIONS DEVELOPMENT\WIP DEMOS\LED COLOR MIXING BOARD\SCHEMATIC\SCHEMATIC_ROHM_RGB_EVK_20160106.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "ROHM RGB EVK"))))
